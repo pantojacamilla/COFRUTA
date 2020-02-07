@@ -1,0 +1,24 @@
+1 - Rever a formatação das redes sociais
+
+
+
+2 - Concertar a galeria de produtos
+
+
+3-  Decidir quais serão as imagens do carrosel
+4 - Decidir quais serão os textos que acompanharão as imagens do carrosel
+5 - Definir as cores da cofruta que serão utilizadas no site no site
+6 - Pegar a Logo da cofruta
+7 - Logo de cada um dos parceiros e a ordem
+    - Sindicato dos trabalhadores rurais de abaetetuba
+    - Natura
+    - IFPA Castanhal
+    - UFPA
+    - GIZ
+    - CART
+    - CAMTAUÁ
+    - SODEXO
+    - 100% AMAZÔNIA
+
+8 - definir como o vídeo vai se implementado
+9 - concertar formatação do histórico e inserir o que falta (do histórico)
