@@ -1,6 +1,6 @@
 # COFRUTA
 Material do website da COFRUTA.
 
-PARTICIPANTE:
+PARTICIPANTES:
 
 -DAVI ANDRADE 
